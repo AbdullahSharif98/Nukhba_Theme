@@ -1,11 +1,11 @@
 {
-  "name": "theme-raed",
+  "name": "nukhba-pro",
   "version": "1.0.3",
   "description": "Salla Theme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SallaApp/theme-raed.git"
+    "url": "git+https://github.com/AbdullahSharif98/Nukhba_Pro.git"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",

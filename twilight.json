@@ -1,9 +1,9 @@
 {
     "name": {
-        "ar": "رائد",
-        "en": "Theme Raed"
+        "ar": "نخبة برو",
+        "en": "Nukhba Pro"
     },
-    "repository": "https://github.com/SallaApp/theme-raed",
+    "repository": "https://github.com/AbdullahSharif98/Nukhba_Pro",
     "author_email": "support@salla.sa",
     "features": [
         "mega-menu",
